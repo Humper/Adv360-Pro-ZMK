@@ -25,7 +25,7 @@
         ZMPass: ZMPass {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LS(G) &kp E &kp M &kp O &kp N6 &kp N9 &kp Q &kp G &kp D &kp LS(V) &kp N1 &kp M>;
+            bindings = <&kp LS(D) &kp G &kp M &kp N4 &kp U &kp M &kp F &kp EXCL &kp LS(D) &kp G &kp M &kp N4 &kp U &kp M &kp F &kp EXCL>;
             label = "ZMPASS";
         };
     };
